@@ -1,0 +1,6 @@
+{
+  "name": "INOVA - International Fast Food",
+  "description": "Interactive digital menu and ordering website for INOVA, a premium international fast-food restaurant with Colombian peso (COP) pricing and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
